@@ -28,7 +28,7 @@ After all commands are inserted into the markdown file, the python script can th
 Khaldun does not modify the original markdown file, it generates a new file, whose filename is specified by the second command line argument.
 
 ## Sample Output
-This README contains the following code blocks, with khaldun instructions (repeated in code formatting, the commands are not visible in the rendered markdown), and the output file for the README is README2.md, which can be found here.
+This README contains the following code blocks, with khaldun instructions (repeated in code formatting, the commands are not visible in the rendered markdown), and the output file for the README is README2.md, which can be found [here](README2.md).
 
 
 `<!---khaldun type="input" name="python sample" language="python"--->`
